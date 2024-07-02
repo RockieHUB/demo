@@ -1,0 +1,102 @@
+[
+  {
+    "reserveId": "98188169-7331-4116-916a-9a2ef1be26a9",
+    "customerName": "Supri",
+    "reservedDateTime": "2024-07-01",
+    "reservedDay": "MONDAY",
+    "actualReservedDateTime": "2024-07-01",
+    "actualReservedDay": "MONDAY",
+    "reserveSeat": 3,
+    "price": 3697.69
+  },
+  {
+    "reserveId": "e3e8fb22-cc20-4b5e-b088-134f4dbbe718",
+    "customerName": "Supra",
+    "reservedDateTime": "2024-07-01",
+    "reservedDay": "MONDAY",
+    "actualReservedDateTime": "2024-07-01",
+    "actualReservedDay": "MONDAY",
+    "reserveSeat": 3,
+    "price": 3697.69
+  },
+  {
+    "reserveId": "2cbc71bb-bd16-42d9-ad68-960516210a82",
+    "customerName": "Tono",
+    "reservedDateTime": "2024-07-01",
+    "reservedDay": "MONDAY",
+    "actualReservedDateTime": "2024-07-02",
+    "actualReservedDay": "TUESDAY",
+    "reserveSeat": 3,
+    "price": 3697.69
+  },
+  {
+    "reserveId": "3edf891b-89eb-40f4-bdf3-059e6322e8fd",
+    "customerName": "Budi",
+    "reservedDateTime": "2024-07-01",
+    "reservedDay": "MONDAY",
+    "actualReservedDateTime": "2024-07-02",
+    "actualReservedDay": "TUESDAY",
+    "reserveSeat": 3,
+    "price": 3697.69
+  },
+  {
+    "reserveId": "19842fda-c231-4d69-9fb7-1a7657c8a933",
+    "customerName": "Kentung",
+    "reservedDateTime": "2024-07-01",
+    "reservedDay": "MONDAY",
+    "actualReservedDateTime": "2024-07-04",
+    "actualReservedDay": "THURSDAY",
+    "reserveSeat": 3,
+    "price": 3697.69
+  },
+  {
+    "reserveId": "b2602831-6d0f-4320-b956-ef729cb5ba46",
+    "customerName": "Mawar",
+    "reservedDateTime": "2024-07-01",
+    "reservedDay": "MONDAY",
+    "actualReservedDateTime": "2024-07-04",
+    "actualReservedDay": "THURSDAY",
+    "reserveSeat": 3,
+    "price": 3697.69
+  },
+  {
+    "reserveId": "474a5c0e-3d84-4b96-95bd-c6f52efd991a",
+    "customerName": "Meng",
+    "reservedDateTime": "2024-07-01",
+    "reservedDay": "MONDAY",
+    "actualReservedDateTime": "2024-07-06",
+    "actualReservedDay": "SATURDAY",
+    "reserveSeat": 3,
+    "price": 3697.69
+  },
+  {
+    "reserveId": "7cdee233-b416-4da4-af55-85e7bcdac66e",
+    "customerName": "Woof",
+    "reservedDateTime": "2024-07-01",
+    "reservedDay": "MONDAY",
+    "actualReservedDateTime": "2024-07-06",
+    "actualReservedDay": "SATURDAY",
+    "reserveSeat": 3,
+    "price": 3697.69
+  },
+  {
+    "reserveId": "1369965e-7ff2-4c77-9fd0-6e2f1e03f22d",
+    "customerName": "Agus",
+    "reservedDateTime": "2024-07-01",
+    "reservedDay": "MONDAY",
+    "actualReservedDateTime": "2024-07-07",
+    "actualReservedDay": "SUNDAY",
+    "reserveSeat": 3,
+    "price": 3697.69
+  },
+  {
+    "reserveId": "6c4315d1-ee5b-47b9-a534-13d26aeb6ffe",
+    "customerName": "Putri",
+    "reservedDateTime": "2024-07-01",
+    "reservedDay": "MONDAY",
+    "actualReservedDateTime": "2024-07-07",
+    "actualReservedDay": "SUNDAY",
+    "reserveSeat": 3,
+    "price": 3697.69
+  }
+]
